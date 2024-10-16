@@ -17,3 +17,5 @@ Scatter Plots: Employed to identify relationships or correlations between two nu
 Line Charts: Used to track changes over time, making it easier to analyze trends and patterns in sequential datasets.
 
 Technology Used:- Google Colab
+
+![image](https://github.com/user-attachments/assets/8e26843b-5bf3-4262-a6b5-84d53f63530e)
